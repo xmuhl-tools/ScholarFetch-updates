@@ -1,0 +1,13 @@
+{
+  "product": "ScholarFetch",
+  "version": "1.1.0.1",
+  "build": 1,
+  "notes": "V1.1 用户体验升级：界面状态记忆（模式/主题/数量/选项跨启动接续）；任务运行中退出确认；完成弹窗部分成功分级警示与日志直达；核心布局自适应与高分屏机械量测保障；窗口标题与文件属性版本可识别；本版本起支持自动更新与完整性校验。手册 V1.1 增加数据与隐私说明。",
+  "asset": "ScholarFetch-1.1.0.1-win-x64.zip",
+  "sha256": "8eed99877043559d589275cfe31531673c9c0e43c68eb9630d8732a99cc0b2a0",
+  "mirrors": [
+    "https://cdn.jsdelivr.net/gh/xmuhl-tools/ScholarFetch-updates@v1.1.0.1/ScholarFetch-1.1.0.1-win-x64.zip",
+    "https://ghfast.top/https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.1/ScholarFetch-1.1.0.1-win-x64.zip",
+    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.1/ScholarFetch-1.1.0.1-win-x64.zip"
+  ]
+}
