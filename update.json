@@ -1,14 +1,14 @@
 {
   "product": "ScholarFetch",
-  "version": "1.1.0.4",
-  "build": 4,
-  "notes": "主界面右上角新增「帮助」(打开使用手册)与「检查更新」按钮;使用手册升级V1.3(安装章节改为安装包流程,卸载与常见提示说明);其他功能与1.1.0.3相同。",
-  "asset": "ScholarFetch-1.1.0.4-win-x64.zip",
-  "sha256": "90041e3015ff3212e268890d51b76e3d78b78c18afefeb736d1cb6682665ac6f",
+  "version": "1.1.0.5",
+  "build": 5,
+  "notes": "界面布局优化:「前往」按钮紧贴网址输入框(帮助/检查更新移至右角,不再隔开);五个下载选项勾选框独立成行,与操作按钮/AI设置分区更清晰;按钮与标签全中文化(前往/模型);使用手册勘误(附录工具说明与贴士措辞)随包更新。",
+  "asset": "ScholarFetch-1.1.0.5-win-x64.zip",
+  "sha256": "a44fcb7fcb56114d50e8627e4d885af56860b4395dd7609f48f66ba0fbe4bffb",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/xmuhl-tools/ScholarFetch-updates@v1.1.0.4/ScholarFetch-1.1.0.4-win-x64.zip",
-    "https://ghfast.top/https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.4/ScholarFetch-1.1.0.4-win-x64.zip",
-    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.4/ScholarFetch-1.1.0.4-win-x64.zip"
+    "https://cdn.jsdelivr.net/gh/xmuhl-tools/ScholarFetch-updates@v1.1.0.5/ScholarFetch-1.1.0.5-win-x64.zip",
+    "https://ghfast.top/https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.5/ScholarFetch-1.1.0.5-win-x64.zip",
+    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.5/ScholarFetch-1.1.0.5-win-x64.zip"
   ],
-  "size": 5564324
+  "size": 5566563
 }
