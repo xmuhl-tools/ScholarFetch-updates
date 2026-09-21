@@ -2,15 +2,15 @@
 
 更新发布通道：更新清单 + Windows x64 下载包（ScholarFetch）。
 
-- 当前版本：**1.1.0.3**（build 3）
-- 最近更新：使用手册全新改版为4页快速上手版(V1.2):三步安装、五步完成第一次批量下载、勾选项决策表;程序功能与1.1.0.2相同。
+- 当前版本：**1.1.0.4**（build 4）
+- 最近更新：主界面右上角新增「帮助」(打开使用手册)与「检查更新」按钮;使用手册升级V1.3(安装章节改为安装包流程,卸载与常见提示说明);其他功能与1.1.0.3相同。
 
 ## 下载
 
 | 用途 | 文件 |
 |---|---|
-| 首次安装（推荐，双击即装） | [ScholarFetch-1.1.0.3-win-x64-Setup.exe](https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.3/ScholarFetch-1.1.0.3-win-x64-Setup.exe) |
-| 便携版 / 自动更新载荷 | [ScholarFetch-1.1.0.3-win-x64.zip](https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.3/ScholarFetch-1.1.0.3-win-x64.zip) |
+| 首次安装（推荐，双击即装） | [ScholarFetch-1.1.0.4-win-x64-Setup.exe](https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.4/ScholarFetch-1.1.0.4-win-x64-Setup.exe) |
+| 便携版 / 自动更新载荷 | [ScholarFetch-1.1.0.4-win-x64.zip](https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.4/ScholarFetch-1.1.0.4-win-x64.zip) |
 
 ## 安装与使用
 
@@ -21,10 +21,10 @@
 ## 校验（sha256）
 
 ```text
-ScholarFetch-1.1.0.3-win-x64.zip
-  5c46b2b62d94e7420b5082e92555c9117aa622d71f9a43a302c58045993aa979
-ScholarFetch-1.1.0.3-win-x64-Setup.exe
-  9c9e130cbe6f0fbadcf2a7d1d3fbb238b12362dfda15c79c8d225cbaf6c3e098
+ScholarFetch-1.1.0.4-win-x64.zip
+  90041e3015ff3212e268890d51b76e3d78b78c18afefeb736d1cb6682665ac6f
+ScholarFetch-1.1.0.4-win-x64-Setup.exe
+  82d2ba9cd286bdfe14055ae1935d7620ccddbdc348ec0453c7b2b645c2a622f9
 ```
 
 ## 自动更新
