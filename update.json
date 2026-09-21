@@ -1,14 +1,14 @@
 {
   "product": "ScholarFetch",
-  "version": "1.1.0.6",
-  "build": 6,
-  "notes": "窗口标题版本号改为完整四段(如V1.1.0.6),与更新弹窗、文件属性、安装包一致;其他与1.1.0.5相同。",
-  "asset": "ScholarFetch-1.1.0.6-win-x64.zip",
-  "sha256": "cff9c30cd1ae87d2adbfe6178ae92fcfcaab97b5879d2b88dcd6552f9d4db767",
+  "version": "1.1.0.7",
+  "build": 7,
+  "notes": "修复自动更新下载偶发挂死:下载停滞(代理低速拖曳)15秒无进展即自动换下一个下载源;下载过程显示源序号与实时进度,逐源尝试与失败原因写入日志。",
+  "asset": "ScholarFetch-1.1.0.7-win-x64.zip",
+  "sha256": "c6d903bb1a0beb19981cd952ed3613c399a263860d4775920063294d5f3db59e",
   "mirrors": [
-    "https://cdn.jsdelivr.net/gh/xmuhl-tools/ScholarFetch-updates@v1.1.0.6/ScholarFetch-1.1.0.6-win-x64.zip",
-    "https://ghfast.top/https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.6/ScholarFetch-1.1.0.6-win-x64.zip",
-    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.6/ScholarFetch-1.1.0.6-win-x64.zip"
+    "https://cdn.jsdelivr.net/gh/xmuhl-tools/ScholarFetch-updates@v1.1.0.7/ScholarFetch-1.1.0.7-win-x64.zip",
+    "https://ghfast.top/https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.7/ScholarFetch-1.1.0.7-win-x64.zip",
+    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/ScholarFetch-updates/releases/download/v1.1.0.7/ScholarFetch-1.1.0.7-win-x64.zip"
   ],
-  "size": 5566423
+  "size": 5568020
 }
